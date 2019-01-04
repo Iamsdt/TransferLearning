@@ -1,4 +1,4 @@
-import src.lib.Network as Network
+import Network as Network
 import torch.nn as nn
 import torch
 

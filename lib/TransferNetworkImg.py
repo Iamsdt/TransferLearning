@@ -1,4 +1,4 @@
-import src.lib.Network as Network
+import Network as Network
 import torchvision.models as models
 import FC as FC
 import torch
